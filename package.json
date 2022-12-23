@@ -1,0 +1,15 @@
+{
+  "name": "basic_node_website",
+  "version": "1.0.0",
+  "description": "Basic Node Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "VanillaCoder",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
